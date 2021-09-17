@@ -11,6 +11,8 @@ The accuracy will be lowered if we put image of a person who is not full face in
 
 ![WhatsApp Image 2021-09-13 at 1 09 59 AM](https://user-images.githubusercontent.com/29944896/133741473-fb21bcd8-3c5a-471a-838c-7ddb7ec83186.jpeg)
 
+Theoritical accuracy will be around 98%.
+
 Personal experience
 The application have high identity recognition accuracy without masked. 
 Moreover, the identity recognition accuracy did not changed when we are wearing mask, but sometimes it will not classifying our face as object. 
